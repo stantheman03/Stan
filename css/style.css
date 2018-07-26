@@ -1,0 +1,22 @@
+div {
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    border-bottom-color: blue;
+    column-rule-color: beige;
+    
+     }
+     h1{color: blue;
+     background-color: aliceblue;
+     font-size: large;
+     font-family: cursive
+     }
+    h2{background-blend-mode: color-burn;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        fill: aquamarine;
+        flex-flow: unset;
+        font-size: larger;
+        color: antiquewhite;
+    }
+
+    
